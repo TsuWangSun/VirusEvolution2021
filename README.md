@@ -1,4 +1,4 @@
-# GiantVirusEvoGenome
+# VirusEvolution2021
 
 ## Figure 3
 
