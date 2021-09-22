@@ -7,7 +7,7 @@ This document is the R code used in Sun, T.-W. and C. Ku (2021) Unraveling gene 
 
 The code would calculate and visualize the genome variations and host diversity of NCLDV families with scatter plots, including supergroup-level host diversity, protein and singleton number diversity, and core-gene tree divergence (avereage relative distance on tree) (see Figure 3 of Sun & Ku, 2021). 
 
-The R code: fig3/R_0607fig3.ipynb
+R code: fig3/R_0607fig3.ipynb
 
 ### required datasets
 
@@ -27,6 +27,8 @@ All datasets are available in "fig3/" directory.
 ## Figure 4
 
 The code would do pair comparison among viruses in Iridoviridae/Poxviridae that infect insect or vertebrate hosts and Mimiviridae/Pycodnaviridae that infect amoeba or alga hosts and generate violin plots for figure 4.
+
+R code: fig4/R_0807fig4.ipynb
 
 ### required datasets
 
